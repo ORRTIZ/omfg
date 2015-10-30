@@ -1,2 +1,2 @@
 # omfg
-Manufacturing Management component for OFBiz
+Manufacturing Management component for Apache OFBiz™
